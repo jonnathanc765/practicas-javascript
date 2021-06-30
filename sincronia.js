@@ -13,6 +13,8 @@ const simple = () => {
 
 }
 
+simple()
+
 
 
 
@@ -130,7 +132,7 @@ const challenge = async () => {
 
 }
 
-challenge()
+// challenge()
 
 
 
